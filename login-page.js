@@ -1,6 +1,5 @@
 const loginForm = document.getElementById("login-form");
 const loginButton = document.getElementById("login-button");
-const loginErrorMsg = document.getElementById("login-error-msg");
 
 // Wait for login button to be clicked
 loginButton.addEventListener("click", (event) => {
